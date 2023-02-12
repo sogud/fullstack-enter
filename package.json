@@ -1,0 +1,12 @@
+{
+  "name": "fullstack-enter",
+  "version": "1.0.0",
+  "description": "fullstack-enter",
+  "scripts": {
+    "start:umi": "cd packages/umi && npm run dev",
+    "start:nest": "cd packages/nest && npm run start:dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
